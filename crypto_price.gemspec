@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{View current Crypto prices on demand.}
   spec.description   = %q{Scrapped Information on Crypto Prices.}
-  spec.homepage      = "https://github.com/FigueroaR/crypto_price"
+  spec.homepage      = "https://github.com/reza0982/Crypto-price"
   spec.license       = "MIT"
   
   # Specify which files should be added to the gem when it is released.
